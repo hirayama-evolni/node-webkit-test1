@@ -1,0 +1,10 @@
+{
+  "name": "clock-test",
+  "main": "app/index.html",
+  "window": {
+    "toolbar": false,
+    "width": 520,
+    "height": 150,
+    "title": "Clock Sample"
+  }
+}
